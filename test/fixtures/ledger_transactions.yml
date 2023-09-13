@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activity_id: MyString
+  date: 2023-09-11 22:17:25
+  type: 
+  amount: 9.99
+  balance: 9.99
+
+two:
+  activity_id: MyString
+  date: 2023-09-11 22:17:25
+  type: 
+  amount: 9.99
+  balance: 9.99
