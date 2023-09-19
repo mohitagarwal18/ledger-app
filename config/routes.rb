@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   get 'transactions/:entity_id', to: 'transactions#index', as: :entity_transactions
   
-  root to: "transactions/76510190788"
+  root to:  redirect("transactions/76510190788")
 end
